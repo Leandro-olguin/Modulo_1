@@ -1,7 +1,7 @@
 # Modulo_1
 Ejercicio 1: como crear, modificar y hacer el archivo README.md
 
-Ejercicio 2: creación de un archivo htal en forma manual
+Ejercicio 2: creación de un archivo html en forma manual
 
 Ejercicio 3: crear un archivo LAtex en https://overleaf.com
 
