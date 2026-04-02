@@ -1,12 +1,12 @@
 # Modulo_1
-Ejercicio 1: como crear, modificar y hacer el archivo README.md
+*Ejercicio 1*: Como crear, modificar y hacer el archivo README.md
 
-Ejercicio 2: creación de un archivo html en forma manual
+*Ejercicio 2*: Creación de un archivo html en forma manual
 
-Ejercicio 3: crear un archivo LAtex en https://overleaf.com
+*Ejercicio 3*: Crear un archivo LATex en https://overleaf.com
 
-Ejercicio 4: creación de cuadernos
+*Ejercicio 4*: Creación de cuadernos
 
-Ejercicio 5: creación de un CV en LAtex
+*Ejercicio 5*: Creación de un CV en LATex
 
-Ejercicio 6: creación de un archivo con metadatos en el entorno R
+*Ejercicio 6*: Creación de un archivo con metadatos en el entorno R
